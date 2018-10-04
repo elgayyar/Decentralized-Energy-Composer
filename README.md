@@ -1,3 +1,7 @@
+@elgayyar - important note
+
+-- You need composer 0.19.16 not 0.20.0 or above to run this code --
+
 *Read this in other languages: [中文](README-cn.md).*
 # Decentralized Energy with Hyperledger Composer
 
