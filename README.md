@@ -46,11 +46,11 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
 - [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
   * to install composer cli
-    `npm install -g composer-cli`
+    `npm install -g composer-cli@0.19.16`
   * to install composer-rest-server
-    `npm install -g composer-rest-server`
+    `npm install -g composer-rest-server@0.19.16`
   * to install generator-hyperledger-composer
-    `npm install -g generator-hyperledger-composer`
+    `npm install -g generator-hyperledger-composer@0.19.16`
 
 ## Steps
 1. [Clone the repo](#1-clone-the-repo)
